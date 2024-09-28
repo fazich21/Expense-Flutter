@@ -2,7 +2,6 @@ import 'package:expanse/bar_graph.dart';
 import 'package:expanse/date_time_helper.dart';
 import 'package:expanse/expense_data.dart';
 import 'package:flutter/material.dart';
-
 import 'package:provider/provider.dart';
 
 class ExpenseSummary extends StatelessWidget {
