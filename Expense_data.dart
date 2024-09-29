@@ -1,5 +1,4 @@
 import 'package:expanse/date_time_helper.dart';
-import 'package:expanse/hive_database.dart';
 import 'package:flutter/material.dart';
 import 'package:expanse/expense_item.dart';
 import 'expense_item.dart';
