@@ -14,7 +14,6 @@ class ExpenseTile extends StatelessWidget {
     required this.dateTime,
     required this.deleteTapped,
   });
-
   @override
   Widget build(BuildContext context) {
     return Column(
