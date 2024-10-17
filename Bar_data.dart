@@ -1,6 +1,4 @@
 import 'package:expanse/individual_bar.dart';
-
-
 class BarData{
   final double sunAmount;
   final double monAmount;
@@ -9,7 +7,6 @@ class BarData{
   final double thurAmount;
   final double friAmount;
   final double satAmount;
-
 
   BarData({
     required this.sunAmount,
