@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-
-
 import 'home_page.dart';
+
 class CalculatorApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
