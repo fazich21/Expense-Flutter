@@ -4,8 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 void main() async{
-
-  await Hive.openBox("expense_database");
+  
   runApp(Myapp());
 }
 class Myapp extends StatelessWidget {
