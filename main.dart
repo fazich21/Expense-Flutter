@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 void main() async{
-  await Hive.initFlutter();
 
   await Hive.openBox("expense_database");
   runApp(Myapp());
